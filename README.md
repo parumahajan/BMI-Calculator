@@ -24,18 +24,14 @@ A simple yet stylish Body Mass Index (BMI) Calculator built using Flutter. This 
 To run this project locally:
 
 1. Clone the repo
-
 ```git clone https://github.com/yourusername/bmicalculator.git```
 
 2. Navigate to the project directory
-
 ```cd bmicalculator```
 
 3. Install dependencies
-
 ```flutter pub get```
 
 4. Run the app
-
 ```flutter run```
 
