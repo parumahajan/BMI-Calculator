@@ -19,3 +19,5 @@ Gender selection with custom cards
 BMI calculation logic with health category interpretation
 
 Display of BMI result, numerical value, and interpretation text
+
+
